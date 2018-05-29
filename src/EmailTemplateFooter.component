@@ -1,0 +1,9 @@
+<apex:component access="global">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td align="center" valign="middle" height="50" style="border-top: 5px solid #1990cf; color: white" bgcolor="#7e7e7e">
+        <a href="https://kaptio.com/" style="color: white !important; text-decoration: none !important">kaptio.com/</a>
+    </td>
+  </tr>
+</table>
+</apex:component>
