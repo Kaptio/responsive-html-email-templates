@@ -7,7 +7,7 @@
 	</types>
 	<types>
 		<members>Standard_Templates</members>
-		<members>Standard_Templates/KaptioTravelEmailTemplate.email</members>
+		<members>Standard_Templates/KaptioTravelEmailTemplate</members>
 		<name>EmailTemplate</name>
 	</types>
 	<version>42.0</version>
