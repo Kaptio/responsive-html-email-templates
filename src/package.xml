@@ -6,8 +6,8 @@
 		<name>ApexComponent</name>
 	</types>
 	<types>
-		<members>responsive-html-email-templates</members>
-		<members>responsive-html-email-templates/KaptioTravelEmailTemplate</members>
+		<members>StandardTemplate</members>
+		<members>StandardTemplate/KaptioTravelEmailTemplate</members>
 		<name>EmailTemplate</name>
 	</types>
 	<version>42.0</version>
