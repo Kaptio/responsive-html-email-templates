@@ -6,7 +6,8 @@
 		<name>ApexComponent</name>
 	</types>
 	<types>
-		<members>Standard_Templates/KaptioTravelEmailTemplate</members>
+		<members>StandardTemplates</members>
+		<members>StandardTemplates/KaptioTravelEmailTemplate</members>
 		<name>EmailTemplate</name>
 	</types>
 	<version>42.0</version>
