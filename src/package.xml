@@ -7,7 +7,7 @@
 	</types>
 	<types>
 		<members>responsive-html-email-templates</members>
-		<members>responsive-html-email-templates/KaptioTravelEmailTemplate.email</members>
+		<members>responsive-html-email-templates/KaptioTravelEmailTemplate</members>
 		<name>EmailTemplate</name>
 	</types>
 	<version>42.0</version>
