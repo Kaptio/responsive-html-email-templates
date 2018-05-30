@@ -1,0 +1,27 @@
+<messaging:emailTemplate subject="Visualforce Email Example" recipientType="Contact" relatedToType="KaptioTravel__Itinerary__c">
+    <messaging:htmlEmailBody >
+        <body style="margin:0; padding:0; background-color:#FFFFFF;">
+            <center>
+                <table width="60%" border="0" cellpadding="0" cellspacing="0" bgcolor="white">
+                    <tr>
+                        <td align="center" valign="top">
+                            <c:EmailTemplateHeader />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="left" valign="top" style="padding:10px">
+                            <p>
+                                EMAIL TEMPLATE BODY
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <c:EmailTemplateFooter />
+                        </td>
+                    </tr>
+                </table>
+            </center>
+        </body>
+    </messaging:htmlEmailBody>
+</messaging:emailTemplate>
