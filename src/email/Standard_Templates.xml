@@ -2,6 +2,5 @@
 <EmailFolder xmlns="http://soap.sforce.com/2006/04/metadata">
     <accessType>Public</accessType>
     <name>Standard_Templates</name>
-    <encodingKey>UTF-8</encodingKey>
     <publicFolderAccess>ReadOnly</publicFolderAccess>
 </EmailFolder>
