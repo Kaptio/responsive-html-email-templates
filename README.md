@@ -7,10 +7,15 @@ HTML emails often get neglected. **Styling HTML email is painful**. Tables, inli
 We’ve tried to remove some of the pain with a really simple responsivle html email template starter kit.
 
 ## What's included
-* List components..
+* KaptioTravelEmailTemplate - Standard template for all emails
+* Alert_Email_Template - Standard template for sending alerts via email
+* SGTCo_Action - Standard template for email requiring an action from the recipient
+* SGTCo_Billing_Template - Standard template for sending and invoice vie email
 
-## How to use
-* List examples..
+## Setup Guide
+* Click the 'Deploy to Salesforce'
+* Log into your org
+* Click deploy
 
 ## Inline the CSS
 Before sending HTML emails **you should inline your CSS**.
