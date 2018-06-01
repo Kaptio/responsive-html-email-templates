@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-	<types>
-		<members>EmailTemplateFooter</members>
-		<members>EmailTemplateHeader</members>
-		<name>ApexComponent</name>
-	</types>
-	<types>
-		<members>StandardTemplates</members>
-		<members>StandardTemplates/KaptioTravelEmailTemplate</members>
-		<name>EmailTemplate</name>
-	</types>
-	<version>42.0</version>
+    <types>
+        <members>*</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
+        <members>Bunnik_Customer_Service/Alert_Email_Template</members>
+        <members>Bunnik_Customer_Service/KaptioTravelEmailTemplate</members>
+        <members>Bunnik_Customer_Service/SGTCo_Action</members>
+        <members>Bunnik_Customer_Service/SGTCo_Billing_Template</members>
+        <name>EmailTemplate</name>
+    </types>
+    <version>36.0</version>
 </Package>

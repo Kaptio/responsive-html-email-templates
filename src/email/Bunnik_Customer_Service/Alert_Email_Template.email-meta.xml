@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>42.0</apiVersion>
+    <available>false</available>
+    <description>Template for an email alert</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Alert Email Template</name>
+    <packageVersions>
+        <majorNumber>1</majorNumber>
+        <minorNumber>468</minorNumber>
+        <namespace>KaptioTravel</namespace>
+    </packageVersions>
+    <style>none</style>
+    <subject>Alert</subject>
+    <type>visualforce</type>
+</EmailTemplate>
