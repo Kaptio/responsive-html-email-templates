@@ -5,10 +5,11 @@
         <name>ApexComponent</name>
     </types>
     <types>
-        <members>Bunnik_Customer_Service/Alert_Email_Template</members>
-        <members>Bunnik_Customer_Service/KaptioTravelEmailTemplate</members>
-        <members>Bunnik_Customer_Service/SGTCo_Action</members>
-        <members>Bunnik_Customer_Service/SGTCo_Billing_Template</members>
+        <members>StandardTemplates</members>
+		<members>StandardTemplates/KaptioTravelEmailTemplate</members>
+        <members>StandardTemplates/Alert_Email_Template</members>
+        <members>StandardTemplates/SGTCo_Action</members>
+        <members>StandardTemplates/SGTCo_Billing_Template</members>
         <name>EmailTemplate</name>
     </types>
     <version>36.0</version>
