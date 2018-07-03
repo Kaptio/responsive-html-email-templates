@@ -9,8 +9,8 @@ We’ve tried to remove some of the pain with a really simple responsivle html e
 ## What's included
 * KaptioTravelEmailTemplate - Standard template for all emails
 * Alert_Email_Template - Standard template for sending alerts via email
-* SGTCo_Action - Standard template for email requiring an action from the recipient
-* SGTCo_Billing_Template - Standard template for sending and invoice vie email
+* Action_Email_Template - Standard template for email requiring an action from the recipient
+* Billing_Email_Template - Standard template for sending and invoice vie email
 
 ## Setup Guide
 * Click the 'Deploy to Salesforce' button in the first section
