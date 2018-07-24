@@ -6,11 +6,10 @@
     </types>
     <types>
         <members>StandardTemplates</members>
-		<members>StandardTemplates/KaptioTravelEmailTemplate</members>
-        <members>StandardTemplates/Alert_Email_Template</members>
-        <members>StandardTemplates/SGTCo_Action</members>
-        <members>StandardTemplates/SGTCo_Billing_Template</members>
-        <name>EmailTemplate</name>
+	<members>StandardTemplates/KaptioTravelEmailTemplate</members>
+	<members>StandardTemplates/Action_Email_Template</members>
+	<members>StandardTemplates/Alert_Email_Template</members>
+	<name>EmailTemplate</name>
     </types>
     <version>36.0</version>
 </Package>
